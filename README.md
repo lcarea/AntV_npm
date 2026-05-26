@@ -1,5 +1,6 @@
-# AntV_npm
 AntV npm 投毒自检
+
+```
 usage: antv_scan.py [-h] [--deep] [--include-global] [--json FILE] [path]
 
 AntV npm 投毒事件 (Mini Shai-Hulud, 2026-05-19) 本地检测
@@ -13,4 +14,7 @@ options:
   --include-global  同时扫描全局 npm 安装目录
   --json FILE       将结果写入 JSON 文件
 
+```
+
 及 AntV npm 投毒应急响应方案
+
